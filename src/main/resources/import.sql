@@ -1,0 +1,7 @@
+
+
+CREATE TABLE IF NOT EXISTS `T_MAIL`(
+    `ID` int(6) NOT NULL AUTO_INCREMENT,
+    `NAME` varchar(128) NOT NULL,
+    PRIMARY KEY(`ID`)
+);
